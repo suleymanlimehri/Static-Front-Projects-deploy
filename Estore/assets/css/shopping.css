@@ -366,7 +366,7 @@ position: center center;
 }
 input[type='radio']{
     color: grey;
-    margin-right: 60px;
+    margin-right: 148px;
 }
 .shipping-text{
     display: flex;
@@ -399,7 +399,7 @@ input[type='radio']{
 .bangle,.state,.post{
     display: flex;
     justify-content: flex-end;
-    margin-right: 60px;
+    margin-right: 145px;
     padding-top: 20px;
 }
 .bangle select,.state select,.post input[type='text']{
